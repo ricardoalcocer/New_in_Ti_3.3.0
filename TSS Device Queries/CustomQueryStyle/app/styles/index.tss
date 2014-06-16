@@ -1,0 +1,11 @@
+".container": {
+	backgroundColor:"yellow"
+}
+
+".container[if=Alloy.Globals.isIOS7Plus]": {
+	backgroundColor:"red"
+}
+
+".container[if=Alloy.Globals.isAndroid4]": {
+	backgroundColor:"green"
+}

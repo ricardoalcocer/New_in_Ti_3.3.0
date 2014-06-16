@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" onClick="doClick" if="Alloy.Globals.isIOS7Plus">Hello iOS 7</Label>
+		<Label id="label" onClick="doClick" if="Alloy.Globals.isAndroid4">Hello Android 4</Label>
+		<Label id="label" onClick="doClick" platform="android" if="!Alloy.Globals.isAndroid4">Hello Old Android</Label>
+	</Window>
+</Alloy>
