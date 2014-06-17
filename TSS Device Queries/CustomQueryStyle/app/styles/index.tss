@@ -9,3 +9,7 @@
 ".container[if=Alloy.Globals.isAndroid4]": {
 	backgroundColor:"green"
 }
+
+"Label":{
+	color: "#000"
+}

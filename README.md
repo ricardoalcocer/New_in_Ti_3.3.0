@@ -10,7 +10,7 @@ The AppCompat library brings the ActionBar to devices running Android 2.3.x.  Fi
 
 ## TSS Device Queries
 
-This new feature in Alloy 1.4 allows you to create your own, user-defined properties to be used in TSS and XML tags.  Typically you can do ```platform="ios"```, but you couldn't say ```platform="io7"```.  With this feature you can create your own check for iOS 7 and then say [if=Alloy.Globals.isIOS7].
+This new feature in Alloy 1.4 allows you to create your own, user-defigitned properties to be used in TSS and XML tags.  Typically you can do ```platform="ios"```, but you couldn't say ```platform="io7"```.  With this feature you can create your own check for iOS 7 and then say [if=Alloy.Globals.isIOS7].
 
 [Full blog post](http://appcelerator.com/blog)
 
@@ -20,3 +20,8 @@ Before Alloy 1.4 there was not easy way of changing the styling of widgets.  Thi
 
 [Full blog post](http://appcelerator.com/blog)
 
+## Studio support for Genymotion
+
+Starting with Studio 3.3.0, you can now launch your Genymotion emulators right from Titanium Studio.
+
+[Full blog post](http://appcelerator.com/blog)
