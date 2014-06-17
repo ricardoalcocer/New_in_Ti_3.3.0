@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="maincontainer" layout="vertical" top="20">
+		<Require type="widget" src="com.alcoapps.labeltext" id="field1"/>
+		<Require type="widget" src="com.alcoapps.labeltext" id="field2"/>
+	</Window>
+</Alloy>

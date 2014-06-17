@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="container" height="50">
+		<Label id="caption" width="40%"></Label>
+		<TextField id="field" width="60%"></TextField>
+	</View>
+</Alloy>

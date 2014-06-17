@@ -1,0 +1,22 @@
+"#container":{
+	backgroundColor: "#D8A6A6",
+	width: "80%",
+	borderColor: "#000",
+	borderRadius: 5,
+	borderWidth: 1,
+	top: 5
+}
+
+"Label": {
+	color: '#000',
+	font: {
+		fontSize: 12
+	},
+	left: 10,
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+}
+
+"#field":{
+	right: 0
+}
